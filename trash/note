@@ -1,0 +1,7 @@
+########## to make new apps ##########
+# nextJS
+- $cd apps
+- make standart next-app and install tailwind
+- add "dependencies":{..., "ui": "*" , ...} on package.json
+- init ui on next.config.js
+
